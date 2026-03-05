@@ -1,0 +1,7 @@
+2026-02-09 15:55:21,567 [root] INFO Starting backtest from 2020-12 to 2021-02
+2026-02-09 15:55:21,567 [root] INFO =====================================================
+2026-02-09 15:56:14,966 [root] INFO Flushed results for month 2020-12: 660 signals, 660 ivs.
+2026-02-09 15:57:05,644 [root] INFO Flushed results for month 2021-01: 570 signals, 570 ivs.
+2026-02-09 15:57:55,847 [root] INFO Flushed results for month 2021-02: 570 signals, 570 ivs.
+2026-02-09 15:57:55,853 [root] INFO Backtest completed in 154.29s (2.57 min)
+
