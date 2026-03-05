@@ -1,0 +1,111 @@
+2025-12-31 10:14:08,146 [root] INFO Starting backtest from 2023-01 to 2023-02
+2025-12-31 10:14:08,146 [root] INFO ================================================================================
+
+2025-12-31 10:15:36,675 [root] INFO Flushed results for month 2023-01: 1700 closed trades.
+2025-12-31 10:16:33,543 [compute_pnl] DEBUG No row found for F call at expiry=2023-03-17, strike=10.0
+2025-12-31 10:16:33,543 [compute_pnl] ERROR Missing option prices for long_call_calendar_30_60 F opened on 2023-01-09 when closing on 2023-02-10. Deleting position.
+2025-12-31 10:16:33,560 [compute_pnl] DEBUG No row found for F call at expiry=2023-03-17, strike=10.0
+2025-12-31 10:16:33,560 [compute_pnl] DEBUG No row found for F put at expiry=2023-03-17, strike=10.0
+2025-12-31 10:16:33,560 [compute_pnl] WARNING Could not close position for long_straddle_calendar_30_60 F opened on 2023-01-09: missing leg price on 2023-02-10.
+2025-12-31 10:16:38,422 [compute_pnl] DEBUG No row found for F call at expiry=2023-03-17, strike=10.0
+2025-12-31 10:16:38,422 [compute_pnl] ERROR Missing option prices for long_call_calendar_30_60 F opened on 2023-01-10 when closing on 2023-02-10. Deleting position.
+2025-12-31 10:16:38,438 [compute_pnl] DEBUG No row found for F call at expiry=2023-03-17, strike=10.0
+2025-12-31 10:16:38,438 [compute_pnl] DEBUG No row found for F put at expiry=2023-03-17, strike=10.0
+2025-12-31 10:16:38,439 [compute_pnl] WARNING Could not close position for long_straddle_calendar_30_60 F opened on 2023-01-10: missing leg price on 2023-02-10.
+2025-12-31 10:16:43,421 [compute_pnl] DEBUG No row found for F call at expiry=2023-03-17, strike=10.0
+2025-12-31 10:16:43,421 [compute_pnl] ERROR Missing option prices for long_call_calendar_30_60 F opened on 2023-01-11 when closing on 2023-02-10. Deleting position.
+2025-12-31 10:16:43,435 [compute_pnl] DEBUG No row found for F call at expiry=2023-03-17, strike=10.0
+2025-12-31 10:16:43,436 [compute_pnl] DEBUG No row found for F put at expiry=2023-03-17, strike=10.0
+2025-12-31 10:16:43,436 [compute_pnl] WARNING Could not close position for long_straddle_calendar_30_60 F opened on 2023-01-11: missing leg price on 2023-02-10.
+2025-12-31 10:16:48,391 [compute_pnl] DEBUG No row found for F call at expiry=2023-03-17, strike=11.0
+2025-12-31 10:16:48,391 [compute_pnl] ERROR Missing option prices for long_call_calendar_30_60 F opened on 2023-01-12 when closing on 2023-02-10. Deleting position.
+2025-12-31 10:16:48,406 [compute_pnl] DEBUG No row found for F call at expiry=2023-03-17, strike=11.0
+2025-12-31 10:16:48,406 [compute_pnl] DEBUG No row found for F put at expiry=2023-03-17, strike=11.0
+2025-12-31 10:16:48,406 [compute_pnl] WARNING Could not close position for long_straddle_calendar_30_60 F opened on 2023-01-12: missing leg price on 2023-02-10.
+2025-12-31 10:16:53,589 [compute_pnl] DEBUG No row found for F call at expiry=2023-03-17, strike=10.0
+2025-12-31 10:16:53,589 [compute_pnl] ERROR Missing option prices for long_call_calendar_30_60 F opened on 2023-01-13 when closing on 2023-02-10. Deleting position.
+2025-12-31 10:16:53,607 [compute_pnl] DEBUG No row found for F call at expiry=2023-03-17, strike=10.0
+2025-12-31 10:16:53,607 [compute_pnl] DEBUG No row found for F put at expiry=2023-03-17, strike=10.0
+2025-12-31 10:16:53,608 [compute_pnl] WARNING Could not close position for long_straddle_calendar_30_60 F opened on 2023-01-13: missing leg price on 2023-02-10.
+2025-12-31 10:17:00,425 [compute_pnl] DEBUG No row found for F call at expiry=2023-03-10, strike=10.5
+2025-12-31 10:17:00,426 [compute_pnl] DEBUG No row found for F put at expiry=2023-03-10, strike=10.5
+2025-12-31 10:17:00,426 [compute_pnl] ERROR Missing option prices for short_straddle_1w F opened on 2023-02-06 when closing on 2023-02-13. Deleting position.
+2025-12-31 10:17:02,083 [compute_pnl] DEBUG No row found for F call at expiry=2023-03-10, strike=10.5
+2025-12-31 10:17:02,084 [compute_pnl] DEBUG No row found for F put at expiry=2023-03-10, strike=10.5
+2025-12-31 10:17:02,084 [compute_pnl] ERROR Missing option prices for short_straddle_1w F opened on 2023-02-07 when closing on 2023-02-13. Deleting position.
+2025-12-31 10:17:03,827 [compute_pnl] DEBUG No row found for F call at expiry=2023-03-10, strike=10.5
+2025-12-31 10:17:03,828 [compute_pnl] DEBUG No row found for F put at expiry=2023-03-10, strike=10.5
+2025-12-31 10:17:03,828 [compute_pnl] ERROR Missing option prices for short_straddle_1w F opened on 2023-02-08 when closing on 2023-02-13. Deleting position.
+2025-12-31 10:17:08,699 [compute_pnl] DEBUG No row found for F call at expiry=2023-03-10, strike=10.5
+2025-12-31 10:17:08,700 [compute_pnl] DEBUG No row found for F put at expiry=2023-03-10, strike=10.5
+2025-12-31 10:17:08,700 [compute_pnl] ERROR Missing option prices for short_straddle_1w F opened on 2023-02-09 when closing on 2023-02-14. Deleting position.
+2025-12-31 10:17:10,128 [root] WARNING No common strikes between expiries 2023-03-17 and 2023-04-21 for ticker F.
+2025-12-31 10:17:10,128 [compute_pnl] WARNING Could not determine common ATM strike for F on 2023-02-14, skipping.
+2025-12-31 10:17:15,110 [root] WARNING No common strikes between expiries 2023-03-17 and 2023-04-21 for ticker F.
+2025-12-31 10:17:15,110 [compute_pnl] WARNING Could not determine common ATM strike for F on 2023-02-15, skipping.
+2025-12-31 10:17:18,433 [root] WARNING No common strikes between expiries 2023-03-17 and 2023-04-21 for ticker F.
+2025-12-31 10:17:18,433 [compute_pnl] WARNING Could not determine common ATM strike for F on 2023-02-16, skipping.
+2025-12-31 10:17:23,337 [compute_pnl] DEBUG No row found for F call at expiry=2023-03-17, strike=10.0
+2025-12-31 10:17:23,338 [compute_pnl] ERROR Missing option prices for long_call_calendar_30_60 F opened on 2023-01-17 when closing on 2023-02-17. Deleting position.
+2025-12-31 10:17:23,357 [compute_pnl] DEBUG No row found for F call at expiry=2023-03-17, strike=10.0
+2025-12-31 10:17:23,358 [compute_pnl] DEBUG No row found for F put at expiry=2023-03-17, strike=10.0
+2025-12-31 10:17:23,358 [compute_pnl] WARNING Could not close position for long_straddle_calendar_30_60 F opened on 2023-01-17: missing leg price on 2023-02-17.
+2025-12-31 10:17:28,327 [compute_pnl] DEBUG No row found for F call at expiry=2023-03-17, strike=10.0
+2025-12-31 10:17:28,328 [compute_pnl] ERROR Missing option prices for long_call_calendar_30_60 F opened on 2023-01-18 when closing on 2023-02-17. Deleting position.
+2025-12-31 10:17:28,343 [compute_pnl] DEBUG No row found for F call at expiry=2023-03-17, strike=10.0
+2025-12-31 10:17:28,343 [compute_pnl] DEBUG No row found for F put at expiry=2023-03-17, strike=10.0
+2025-12-31 10:17:28,344 [compute_pnl] WARNING Could not close position for long_straddle_calendar_30_60 F opened on 2023-01-18: missing leg price on 2023-02-17.
+2025-12-31 10:17:33,286 [compute_pnl] DEBUG No row found for F call at expiry=2023-03-17, strike=10.0
+2025-12-31 10:17:33,286 [compute_pnl] ERROR Missing option prices for long_call_calendar_30_60 F opened on 2023-01-19 when closing on 2023-02-17. Deleting position.
+2025-12-31 10:17:33,301 [compute_pnl] DEBUG No row found for F call at expiry=2023-03-17, strike=10.0
+2025-12-31 10:17:33,302 [compute_pnl] DEBUG No row found for F put at expiry=2023-03-17, strike=10.0
+2025-12-31 10:17:33,302 [compute_pnl] WARNING Could not close position for long_straddle_calendar_30_60 F opened on 2023-01-19: missing leg price on 2023-02-17.
+2025-12-31 10:17:38,220 [compute_pnl] DEBUG No row found for F call at expiry=2023-03-17, strike=10.0
+2025-12-31 10:17:38,221 [compute_pnl] ERROR Missing option prices for long_call_calendar_30_60 F opened on 2023-01-20 when closing on 2023-02-17. Deleting position.
+2025-12-31 10:17:38,237 [compute_pnl] DEBUG No row found for F call at expiry=2023-03-17, strike=10.0
+2025-12-31 10:17:38,238 [compute_pnl] DEBUG No row found for F put at expiry=2023-03-17, strike=10.0
+2025-12-31 10:17:38,238 [compute_pnl] WARNING Could not close position for long_straddle_calendar_30_60 F opened on 2023-01-20: missing leg price on 2023-02-17.
+2025-12-31 10:17:41,474 [root] WARNING No common strikes between expiries 2023-03-17 and 2023-04-21 for ticker F.
+2025-12-31 10:17:41,474 [compute_pnl] WARNING Could not determine common ATM strike for F on 2023-02-17, skipping.
+2025-12-31 10:17:51,089 [root] WARNING No common strikes between expiries 2023-03-24 and 2023-04-21 for ticker F.
+2025-12-31 10:17:51,089 [compute_pnl] WARNING Could not determine common ATM strike for F on 2023-02-21, skipping.
+2025-12-31 10:17:56,146 [root] WARNING No common strikes between expiries 2023-03-24 and 2023-04-21 for ticker F.
+2025-12-31 10:17:56,146 [compute_pnl] WARNING Could not determine common ATM strike for F on 2023-02-22, skipping.
+2025-12-31 10:17:59,370 [root] WARNING No common strikes between expiries 2023-03-24 and 2023-04-21 for ticker F.
+2025-12-31 10:17:59,371 [compute_pnl] WARNING Could not determine common ATM strike for F on 2023-02-23, skipping.
+2025-12-31 10:18:04,141 [compute_pnl] DEBUG No row found for F call at expiry=2023-03-17, strike=10.0
+2025-12-31 10:18:04,141 [compute_pnl] ERROR Missing option prices for long_call_calendar_30_60 F opened on 2023-01-23 when closing on 2023-02-24. Deleting position.
+2025-12-31 10:18:04,156 [compute_pnl] DEBUG No row found for F call at expiry=2023-03-17, strike=10.0
+2025-12-31 10:18:04,156 [compute_pnl] DEBUG No row found for F put at expiry=2023-03-17, strike=10.0
+2025-12-31 10:18:04,156 [compute_pnl] WARNING Could not close position for long_straddle_calendar_30_60 F opened on 2023-01-23: missing leg price on 2023-02-24.
+2025-12-31 10:18:09,057 [compute_pnl] DEBUG No row found for F call at expiry=2023-03-17, strike=10.0
+2025-12-31 10:18:09,057 [compute_pnl] ERROR Missing option prices for long_call_calendar_30_60 F opened on 2023-01-24 when closing on 2023-02-24. Deleting position.
+2025-12-31 10:18:09,072 [compute_pnl] DEBUG No row found for F call at expiry=2023-03-17, strike=10.0
+2025-12-31 10:18:09,073 [compute_pnl] DEBUG No row found for F put at expiry=2023-03-17, strike=10.0
+2025-12-31 10:18:09,073 [compute_pnl] WARNING Could not close position for long_straddle_calendar_30_60 F opened on 2023-01-24: missing leg price on 2023-02-24.
+2025-12-31 10:18:13,950 [compute_pnl] DEBUG No row found for F call at expiry=2023-03-17, strike=10.0
+2025-12-31 10:18:13,950 [compute_pnl] ERROR Missing option prices for long_call_calendar_30_60 F opened on 2023-01-25 when closing on 2023-02-24. Deleting position.
+2025-12-31 10:18:13,970 [compute_pnl] DEBUG No row found for F call at expiry=2023-03-17, strike=10.0
+2025-12-31 10:18:13,970 [compute_pnl] DEBUG No row found for F put at expiry=2023-03-17, strike=10.0
+2025-12-31 10:18:13,970 [compute_pnl] WARNING Could not close position for long_straddle_calendar_30_60 F opened on 2023-01-25: missing leg price on 2023-02-24.
+2025-12-31 10:18:18,879 [compute_pnl] DEBUG No row found for F call at expiry=2023-03-17, strike=10.0
+2025-12-31 10:18:18,879 [compute_pnl] ERROR Missing option prices for long_call_calendar_30_60 F opened on 2023-01-26 when closing on 2023-02-24. Deleting position.
+2025-12-31 10:18:18,895 [compute_pnl] DEBUG No row found for F call at expiry=2023-03-17, strike=10.0
+2025-12-31 10:18:18,895 [compute_pnl] DEBUG No row found for F put at expiry=2023-03-17, strike=10.0
+2025-12-31 10:18:18,895 [compute_pnl] WARNING Could not close position for long_straddle_calendar_30_60 F opened on 2023-01-26: missing leg price on 2023-02-24.
+2025-12-31 10:18:23,784 [compute_pnl] DEBUG No row found for F call at expiry=2023-03-17, strike=10.0
+2025-12-31 10:18:23,784 [compute_pnl] ERROR Missing option prices for long_call_calendar_30_60 F opened on 2023-01-27 when closing on 2023-02-24. Deleting position.
+2025-12-31 10:18:23,803 [compute_pnl] DEBUG No row found for F call at expiry=2023-03-17, strike=10.0
+2025-12-31 10:18:23,803 [compute_pnl] DEBUG No row found for F put at expiry=2023-03-17, strike=10.0
+2025-12-31 10:18:23,803 [compute_pnl] WARNING Could not close position for long_straddle_calendar_30_60 F opened on 2023-01-27: missing leg price on 2023-02-24.
+2025-12-31 10:18:27,001 [root] WARNING No common strikes between expiries 2023-03-24 and 2023-04-21 for ticker F.
+2025-12-31 10:18:27,001 [compute_pnl] WARNING Could not determine common ATM strike for F on 2023-02-24, skipping.
+2025-12-31 10:18:33,427 [root] WARNING No common strikes between expiries 2023-03-31 and 2023-04-21 for ticker F.
+2025-12-31 10:18:33,427 [compute_pnl] WARNING Could not determine common ATM strike for F on 2023-02-27, skipping.
+2025-12-31 10:18:38,128 [root] WARNING No common strikes between expiries 2023-03-31 and 2023-04-21 for ticker F.
+2025-12-31 10:18:38,128 [compute_pnl] WARNING Could not determine common ATM strike for F on 2023-02-28, skipping.
+2025-12-31 10:18:38,634 [root] INFO Flushed results for month 2023-02: 7258 closed trades.
+2025-12-31 10:18:38,636 [root] INFO Backtest complete.
+2025-12-31 10:18:38,637 [root] INFO Remaining open position: 6570
+2025-12-31 10:18:38,640 [root] INFO Backtest completed in 270.49s (4.51 min)
+

@@ -1,0 +1,5 @@
+this is the first back up after the major restructuring of trades
+
+because of a minor issue, we once again restructure the way we store our trades
+
+rather than saving the tickers strike etc. we save the OSI string
